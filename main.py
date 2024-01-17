@@ -4,7 +4,7 @@ import os
 
 # Configuración de la clave de API para Bard
 os.environ[
-    '_BARD_API_KEY'] = "bAgr56qeQQL0vzEPkRoZsi9Xmg-nN4YK732XAYkSQQZMsHsAkScGc9ZB8WaLVW25RXBp-g."
+    '_BARD_API_KEY'] = "fQgr57Ch5PW-cdnK-aBugcYnWjgm37f4JXQrBiSEOrJyyGTCAxJzZMhJe1cXlGPb0vtpxQ."
 
 app = Flask(__name__)
 
